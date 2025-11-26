@@ -1,21 +1,14 @@
-## 👋 Olá! Eu sou o Luiz
+👋 Luiz Vitorino
 
-Sou um estudante iniciando minha jornada na área de Tecnologia, aprendendo programação e explorando diferentes caminhos dentro do universo Tech. Atualmente estudando **Python**, lógica e conceitos fundamentais que vão me ajudar a construir meus primeiros projetos.
+Estudante de Tecnologia | Iniciando na Programação
 
----
+Tenho 18 anos, moro em São Paulo e estou começando minha jornada na área de tecnologia. Atualmente estou estudando Python no SENAI, aprendendo lógica, comandos básicos e como aplicar isso em pequenos projetos.
+Gosto de tecnologia, computadores e do cenário gamer/tech. Tenho interesse em começar na área de TI, suporte, dados ou desenvolvimento.
 
-### 🚀 Aprendendo atualmente
-- Python  
-- Git & GitHub  
-- Lógica de programação  
-- Conceitos básicos de tecnologia e TI  
+🛠️ Tecnologias e Ferramentas
 
----
-
-### 🎯 Objetivo
-Dar meus primeiros passos como desenvolvedor, criando projetos simples e evoluindo consistentemente.
-
----
-
-### 📫 Contato
-- Email: *lgvitorino01@gmail.com*
+<img align="left" width="30px" style="padding-right: 10px;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" width="30px" style="padding-right: 10px;" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<br><br>

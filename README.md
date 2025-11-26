@@ -1,4 +1,4 @@
-👋 Luiz Vitorino
+👋 Olá! Eu sou Luiz Gustavo
 
 Estudante de Tecnologia | Iniciando na Programação
 

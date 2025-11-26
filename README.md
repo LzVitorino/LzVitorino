@@ -3,7 +3,7 @@
 Estudante de Tecnologia | Iniciando na Programação
 
 Tenho 19 anos, moro em São Paulo e estou começando minha jornada na área de tecnologia. Atualmente estou estudando Python no SENAI, aprendendo lógica, comandos básicos e como aplicar isso em pequenos projetos.
-Gosto de tecnologia, computadores e do cenário gamer/tech. Tenho interesse em começar na área de TI, suporte, dados ou desenvolvimento.
+Gosto de tecnologia, computadores. Tenho interesse em começar na área de TI, suporte, dados ou desenvolvimento.
 
 🛠️ Tecnologias e Ferramentas
 
